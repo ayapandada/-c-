@@ -1,11 +1,4 @@
 # -c++-
-//2015年解决的OJ问题
-//A除以B的问题
-
-
-
-
-
 
 #include"iostream"
 #include "string"
